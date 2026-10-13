@@ -10,6 +10,9 @@ class clsFindUserScreen :protected clsScreen
 {
 
 private:
+
+	 
+
     static void _PrintUser(clsUser User)
     {
         cout << "\nUser Card:";
@@ -25,6 +28,7 @@ private:
         cout << "\n___________________\n";
 
     }
+
 
 public:
 
